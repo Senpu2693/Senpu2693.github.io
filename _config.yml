@@ -25,7 +25,7 @@ github_username:  Senpu2693
 linkedin_username: bharatraj-elavarasan-814655286
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: "@bharatelav"
+# youtube_username: "@bharatelav"
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Bharatraj, and I'm a computer engineering major at Michigan State University. I'm a member of MSU's Formula SAE team, where I apply my skills in circuit design and system integration. Alongside hardware projects, I also have experience in basic web development.
 
-  I am most skilled in: <mark>Altium</mark>
+  I am most skilled in: <mark>Electrical design and harness engineering</mark>
 
 content:
   - title: Projects # Title for the section
@@ -79,12 +79,12 @@ content:
         title: Michigan State Formula SAE
         link: https://www.msuformularacing.com/
         # link_text: boringcompany.com
-        sub_title: Electrical System Member
+        sub_title: LV Power Lead
         caption: October 2024 - Present
         quote: >
-          Designing and testing custom electronics for high-voltage systems in an open-wheel electric race car.
+          Designing and testing custom electronics and wiring harnesses for high-voltage systems in an open-wheel electric race car.
         description: | # this will include new lines to allow paragraphs
-            As a member of the electronics subgroup, I worked on <mark>PCB design</mark> using Altium, developed circuit models for various subsystems, and built load bank models to support accumulator testing. My role focuses on the design, modeling, and validation of low- and high-voltage electrical components critical to vehicle performance and safety.
+            As the LV Power Lead, I focused on wiring harness design in RapidHarness and hands-on harness manufacturing, ensuring reliable integration across vehicle systems. In addition, I worked on PCB design using Altium, developed circuit models for various subsystems, and built load bank models to support accumulator testing. My role encompassed the design, modeling, and validation of both low- and high-voltage electrical components critical to vehicle performance and safety.
 
       - layout: left
         title: Michigan State Rocketry
