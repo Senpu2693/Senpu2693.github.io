@@ -84,7 +84,7 @@ content:
         quote: >
           Designing and testing custom electronics and wiring harnesses for high-voltage systems in an open-wheel electric race car.
         description: | # this will include new lines to allow paragraphs
-            As the LV Power Lead, I focused on wiring harness design in RapidHarness and hands-on harness manufacturing, ensuring reliable integration across vehicle systems. In addition, I worked on PCB design using Altium, developed circuit models for various subsystems, and built load bank models to support accumulator testing. My role encompassed the design, modeling, and validation of both low- and high-voltage electrical components critical to vehicle performance and safety.
+            As the LV Power Lead, I focused on <mark>wiring harness design</mark> in RapidHarness and hands-on harness manufacturing, ensuring reliable integration across vehicle systems. In addition, I worked on <mark>PCB design</mark> using Altium, developed circuit models for various subsystems, and built load bank models to support accumulator testing. My role encompassed the design, modeling, and validation of both low- and high-voltage electrical components critical to vehicle performance and safety.
 
       - layout: left
         title: Michigan State Rocketry
