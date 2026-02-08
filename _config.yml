@@ -70,7 +70,7 @@ content:
         quote: >
           Using computer vision algorithms connected to a microcontroller that power a motor, you can solo lift in safety, without danger.
         description: | # this will include new lines to allow paragraphs
-         For 'Auto Spot,' our goal was to democratize gym safety. I architected the control system using a Teensy 4.1 and an L298 logic controller to drive a high-torque worm gear assembly. By optimizing the mechanical advantage and current draw of a standard 12V DC motor, I successfully built a prototype capable of a 150 lb vertical lift. The project proved that high-stakes safety mechanisms don't require industrial-level budgets; our total build cost was under $70, showcasing a path for scalable, affordable safety integration.
+         I architected the control system using a Teensy 4.1 and an L298 logic controller to drive a high-torque worm gear assembly. By optimizing the mechanical advantage and current draw of a standard 12V DC motor, I successfully built a prototype capable of a 150 lb vertical lift. The project proved that high-stakes safety mechanisms don't require industrial-level budgets; our total build cost was under $70, showcasing a path for scalable, affordable safety integration.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
