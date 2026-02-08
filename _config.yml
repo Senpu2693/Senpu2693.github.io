@@ -53,25 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Systems and Controls</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Auto Spot
-        link: https://devpost.com/software/otto-spot 
-        # link_text: Project Website
-        additional_links:
-          - title:  Auto Spot Github
-            icon: fab fa-github
-            url: https://github.com/yourlocaljosh/auto-spot
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Using computer vision algorithms connected to a microcontroller that power a motor, you can solo lift in safety, without danger.
-        description: | # this will include new lines to allow paragraphs
-         I architected the control system using a Teensy 4.1 and an L298 logic controller to drive a high-torque worm gear assembly. By optimizing the mechanical advantage and current draw of a standard 12V DC motor, I successfully built a prototype capable of a 150 lb vertical lift. The project proved that high-stakes safety mechanisms don't require industrial-level budgets; our total build cost was under $70, showcasing a path for scalable, affordable safety integration.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -109,7 +90,25 @@ content:
         description: | # this will include new lines to allow paragraphs
             Guided instructors at the top-performing iCode franchise nationwide, supported course and camp sales, developed teaching frameworks, and assisted with promotional materials. Taught over 100 students and collaborated with dozens of instructors across various subjects, including game development with Unreal Engine 5 and Roblox Studio, robotics with VEX IQ, and web development using CSS, HTML, JavaScript, and PHP. Represented iCode at conventions such as ASEICON and optimized curriculum delivery for in-house technology.
 
-      
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Auto Spot
+        link: https://devpost.com/software/otto-spot 
+        # link_text: Project Website
+        additional_links:
+          - title:  Auto Spot Github
+            icon: fab fa-github
+            url: https://github.com/yourlocaljosh/auto-spot
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Using computer vision algorithms connected to a microcontroller that power a motor, you can solo lift in safety, without danger.
+        description: | # this will include new lines to allow paragraphs
+         I architected the control system using a Teensy 4.1 and an L298 logic controller to drive a high-torque worm gear assembly. By optimizing the mechanical advantage and current draw of a standard 12V DC motor, I successfully built a prototype capable of a 150 lb vertical lift. The project proved that high-stakes safety mechanisms don't require industrial-level budgets; our total build cost was under $70, showcasing a path for scalable, affordable safety integration.    
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -118,7 +117,7 @@ content:
         caption: "2023 - Present · GPA: 4.0"
         sub_title: Bachelor of Science, Computer Engineering
         quote: >
-          Founded in 1855, Michigan State University is a top-tier public research university recognized for its excellence in engineering, innovation, and interdisciplinary learning.
+          
         description: | # this will include new lines to allow paragraphs
           Currently engaged in graduate-level study of Multi-Criterion Optimization to solve complex, industry-level engineering problems. I am also a ULA for ECE202: Circuits and Systems II where I teach AC circuit analysis and circuit system design.
 
